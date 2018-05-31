@@ -1,0 +1,5 @@
+gem "rails", "~> 3.2.21"
+gem "strong_parameters"
+gem "test-unit-minitest"
+
+eval_gemfile 'gemfiles/common.rb'
